@@ -1,2 +1,2 @@
 # passwdgen
-simple password generaton written in Pyhon
+simple password generator written in Pyhon
